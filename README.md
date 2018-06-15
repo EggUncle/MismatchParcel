@@ -1,0 +1,2 @@
+# MismatchParcel
+Android序列化反序列化不匹配导致的一个安全问题的解析
